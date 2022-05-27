@@ -1,0 +1,23 @@
+﻿  ObjectDetectionCpp.cpp
+D:\VSStudio\ObjectDetectionCpp\ObjectDetectionCpp\ObjectDetectionCpp.cpp(14,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VSStudio\ObjectDetectionCpp\ObjectDetectionCpp\ObjectDetectionCpp.cpp(15,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VSStudio\ObjectDetectionCpp\ObjectDetectionCpp\ObjectDetectionCpp.cpp(18,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VSStudio\ObjectDetectionCpp\ObjectDetectionCpp\ObjectDetectionCpp.cpp(51,64): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\VSStudio\ObjectDetectionCpp\ObjectDetectionCpp\ObjectDetectionCpp.cpp(51,51): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\VSStudio\ObjectDetectionCpp\ObjectDetectionCpp\ObjectDetectionCpp.cpp(87,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VSStudio\ObjectDetectionCpp\ObjectDetectionCpp\ObjectDetectionCpp.cpp(165,17): warning C4101: 'end': unreferenced local variable
+D:\VSStudio\ObjectDetectionCpp\ObjectDetectionCpp\ObjectDetectionCpp.cpp(165,10): warning C4101: 'start': unreferenced local variable
+  Generating code
+  1 of 435 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ObjectDetectionCpp.vcxproj -> D:\VSStudio\ObjectDetectionCpp\x64\Release\ObjectDetectionCpp.exe
